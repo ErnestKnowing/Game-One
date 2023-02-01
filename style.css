@@ -1,0 +1,17 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+body {
+    background: url(castl.jpg);
+    background-size: cover;
+}
+canvas {
+    background: rgba(0, 0, 0, 0.5);
+
+    display: block;
+    margin: 30px auto 0 auto;
+}
+h1{
+    text-align: center;
+}
